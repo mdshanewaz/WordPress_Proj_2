@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Business &#8211; Dep Newaz Production</title>
+	<atom:link href="/category/business/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>My WordPress Blog</description>
+	<lastBuildDate>Thu, 12 Nov 2020 04:43:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/11/LogoMakr-6xurIF-150x150.png</url>
+	<title>Business &#8211; Dep Newaz Production</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>First Post</title>
+		<link>/first-post/</link>
+					<comments>/first-post/#respond</comments>
+		
+		<dc:creator><![CDATA[newaz]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 04:43:10 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<guid isPermaLink="false">/?p=130</guid>
+
+					<description><![CDATA[Now that you have identified common purposes for writing and learned how to select appropriate content for a particular audience, you can think about the structure of a paragraph in greater detail. Composing an effective paragraph requires a method similar to building a house. You may have the finest content, or materials, but if you &#8230;<p class="read-more"> <a class="" href="/first-post/"> <span class="screen-reader-text">First Post</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Now that you have identified common purposes for writing and learned how to select appropriate content for a particular audience, you can think about the structure of a paragraph in greater detail. Composing an effective paragraph requires a method similar to building a house. You may have the finest content, or materials, but if you do not arrange them in the correct order, then the final product will not hold together very well.</p>
+<p><img loading="lazy" class="size-medium wp-image-218 alignleft" src="http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-300x300.jpg" sizes="(max-width: 300px) 100vw, 300px" srcset="http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-300x300.jpg 300w, http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-1024x1024.jpg 1024w, http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-150x150.jpg 150w, http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-768x768.jpg 768w" alt="" width="300" height="300" /></p>
+<p>&nbsp;</p>
+<p>Pick up any newspaper or magazine and read the first sentence of an article. Are you fairly confident that you know what the rest of the article is about? If so, you have likely read the topic sentence. An effective topic sentence combines a main idea with the writer’s personal attitude or opinion. It serves to orient the reader and provides an indication of what will follow in the rest of the paragraph. Read the following example.</p>
+<p>This topic sentence declares a favorable position for standardizing math and English education. After reading this sentence, a reader might reasonably expect the writer to provide supporting details and facts as to why standardizing math and English education might improve student learning in many states. If the purpose of the essay is actually to evaluate education in only one particular state, or to discuss math or English education specifically, then the topic sentence is misleading.</p>
+<p>Topic sentences contain both a <span class="im_margin_term"><span class="im_glossterm">main idea</span></span> (the subject, or topic that the writer is discussing) and a <span class="im_margin_term"><span class="im_glossterm">controlling idea</span></span> (the writer’s specific stance on that subject). Just as a thesis statement includes an idea that controls a document’s focus (as you will read about in Chapter 7 “The Writing Process: How Do I Begin?”), a topic sentence must also contain a controlling idea to direct the paragraph. Different writers may use the same main idea but can steer their paragraph in a number of different directions according to their stance on the subject. Read the following examples.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/first-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
