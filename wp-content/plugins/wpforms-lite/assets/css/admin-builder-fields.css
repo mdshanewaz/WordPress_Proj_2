@@ -562,7 +562,7 @@ Admin Form Builder - Fields panel
 -------------------------------------------------------------- */
 
 #wpforms-panel-fields .no-fields-preview {
-	background-image: url(/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png), url(/wp-content/plugins/wpforms-lite/assets/images/empty-states/no-fields.svg);
+	background-image: url(https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png), url(https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/empty-states/no-fields.svg);
 	background-repeat: no-repeat, no-repeat;
 	background-size: 110px 110px, 371px 260px;
 	background-position: 10px 10px, center 40px;

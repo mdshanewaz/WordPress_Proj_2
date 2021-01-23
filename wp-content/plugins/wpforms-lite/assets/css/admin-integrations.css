@@ -8,7 +8,7 @@
 
 .wpforms-admin-empty-state-container .waving-hand-emoji {
   display: inline-block;
-  background-image: url(/wp-content/plugins/wpforms-lite/assets/images/empty-states/waving-hand-emoji.png);
+  background-image: url(https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/empty-states/waving-hand-emoji.png);
   background-repeat: no-repeat;
   background-size: 24px 24px;
   background-position: 0 0;
@@ -223,7 +223,7 @@
   display: inline-block;
   width: 28px;
   height: 28px;
-  background-image: url("/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/wpforms-icon.svg");
+  background-image: url("https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/wpforms-icon.svg");
   background-repeat: no-repeat;
   background-position: center center;
   filter: invert(35%) sepia(13%) saturate(404%) hue-rotate(162deg) brightness(98%) contrast(90%);
@@ -325,7 +325,7 @@
 
 .et-db #et-boc .et-l .et-fb-modules-list ul > li.wpforms_selector::before {
   content: '';
-  background-image: url("/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
+  background-image: url("https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
   height: 16px;
   font-variant: normal;
   background-position: center center;

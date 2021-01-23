@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Dep Newaz Production	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj_2/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mdshanewaz.github.io/WordPress_Proj_2/</link>
 	<description>My WordPress Blog</description>
 	<lastBuildDate>Thu, 12 Nov 2020 06:50:18 +0000</lastBuildDate>
 	<sy:updatePeriod>

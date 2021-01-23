@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Second Post	</title>
-	<atom:link href="/second-post/feed/" rel="self" type="application/rss+xml" />
-	<link>/second-post/</link>
+	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj_2/second-post/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mdshanewaz.github.io/WordPress_Proj_2/second-post/</link>
 	<description>My WordPress Blog</description>
 	<lastBuildDate>Thu, 12 Nov 2020 04:44:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

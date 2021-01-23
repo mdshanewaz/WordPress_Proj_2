@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Business &#8211; Dep Newaz Production</title>
-	<atom:link href="/category/business/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj_2/category/business/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mdshanewaz.github.io/WordPress_Proj_2/</link>
 	<description>My WordPress Blog</description>
 	<lastBuildDate>Thu, 12 Nov 2020 04:43:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/11/LogoMakr-6xurIF-150x150.png</url>
+	<url>https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/uploads/2020/11/LogoMakr-6xurIF-150x150.png</url>
 	<title>Business &#8211; Dep Newaz Production</title>
-	<link>/</link>
+	<link>https://mdshanewaz.github.io/WordPress_Proj_2/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>First Post</title>
-		<link>/first-post/</link>
-					<comments>/first-post/#respond</comments>
+		<link>https://mdshanewaz.github.io/WordPress_Proj_2/first-post/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj_2/first-post/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2020 04:43:10 +0000</pubDate>
 				<category><![CDATA[Business]]></category>
-		<guid isPermaLink="false">/?p=130</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj_2/?p=130</guid>
 
-					<description><![CDATA[Now that you have identified common purposes for writing and learned how to select appropriate content for a particular audience, you can think about the structure of a paragraph in greater detail. Composing an effective paragraph requires a method similar to building a house. You may have the finest content, or materials, but if you &#8230;<p class="read-more"> <a class="" href="/first-post/"> <span class="screen-reader-text">First Post</span> Read More &#187;</a></p>]]></description>
+					<description><![CDATA[Now that you have identified common purposes for writing and learned how to select appropriate content for a particular audience, you can think about the structure of a paragraph in greater detail. Composing an effective paragraph requires a method similar to building a house. You may have the finest content, or materials, but if you &#8230;<p class="read-more"> <a class="" href="https://mdshanewaz.github.io/WordPress_Proj_2/first-post/"> <span class="screen-reader-text">First Post</span> Read More &#187;</a></p>]]></description>
 										<content:encoded><![CDATA[<p>Now that you have identified common purposes for writing and learned how to select appropriate content for a particular audience, you can think about the structure of a paragraph in greater detail. Composing an effective paragraph requires a method similar to building a house. You may have the finest content, or materials, but if you do not arrange them in the correct order, then the final product will not hold together very well.</p>
 <p><img loading="lazy" class="size-medium wp-image-218 alignleft" src="http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-300x300.jpg" sizes="(max-width: 300px) 100vw, 300px" srcset="http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-300x300.jpg 300w, http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-1024x1024.jpg 1024w, http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-150x150.jpg 150w, http://proj3.unaux.com/wp-content/uploads/2020/11/Jim-Fahad-Digital-1blog-post-06-1-768x768.jpg 768w" alt="" width="300" height="300" /></p>
 <p>&nbsp;</p>
@@ -46,7 +46,7 @@
 <p>Topic sentences contain both a <span class="im_margin_term"><span class="im_glossterm">main idea</span></span> (the subject, or topic that the writer is discussing) and a <span class="im_margin_term"><span class="im_glossterm">controlling idea</span></span> (the writer’s specific stance on that subject). Just as a thesis statement includes an idea that controls a document’s focus (as you will read about in Chapter 7 “The Writing Process: How Do I Begin?”), a topic sentence must also contain a controlling idea to direct the paragraph. Different writers may use the same main idea but can steer their paragraph in a number of different directions according to their stance on the subject. Read the following examples.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/first-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj_2/first-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

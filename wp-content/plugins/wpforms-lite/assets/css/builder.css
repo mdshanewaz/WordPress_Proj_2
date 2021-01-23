@@ -1425,7 +1425,7 @@ body .choices input[type=text].choices__input:not(.wpforms-hidden) {
 }
 
 .choices[data-type*="select-one"] .choices__button {
-  background-image: url("/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg");
+  background-image: url("https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg");
   padding: 0;
   background-size: 8px;
   position: absolute;
@@ -1523,7 +1523,7 @@ body .choices input[type=text].choices__input:not(.wpforms-hidden) {
   padding-left: 16px;
   border-left: 1px solid #0a4f7e;
   background-color: transparent;
-  background-image: url("/wp-content/plugins/wpforms-lite/assets/images/cross.svg");
+  background-image: url("https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/cross.svg");
   background-size: 8px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2005,7 +2005,7 @@ body.rtl .choices[data-type*="select-multiple"] .choices__button, body.rtl .choi
 }
 
 #wpforms-builder-help-content #wpforms-builder-help-search.wpforms-empty input {
-  background-image: url(/wp-content/plugins/wpforms-lite/assets/images/search.svg);
+  background-image: url(https://mdshanewaz.github.io/WordPress_Proj_2/wp-content/plugins/wpforms-lite/assets/images/search.svg);
 }
 
 #wpforms-builder-help-content .wpforms-builder-help-error {
